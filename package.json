@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "This repository contains all the solutions to the learnyounode tutorial on node.js",
+  "main": "babysteps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshatArora/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshatArora/learnyounode/issues"
+  },
+  "homepage": "https://github.com/AkshatArora/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "hyperquest": "^2.1.2"
+  }
+}
